@@ -1,0 +1,91 @@
+<mat-toolbar color="warn">
+  <span>{{ dialogBaslik }}</span>
+</mat-toolbar>
+
+<div class="container">
+  <form [formGroup]="frm">
+    <mat-form-field appearance="outline">
+      <mat-label>Proje Id</mat-label>
+      <input
+        matInput
+        placeholder="Proje Id"
+        formControlName="projeId"
+        name="projeId"
+        required
+        type="text"
+      />
+    </mat-form-field>
+
+
+    <mat-form-field appearance="outline">
+      <mat-label>Proje Adı</mat-label>
+      <input
+        matInput
+        placeholder="Proje Adı"
+        formControlName="projeAdi"
+        name="projeAdi"
+        required
+        type="text"
+      />
+    </mat-form-field>
+
+
+    <mat-form-field appearance="outline">
+      <mat-label>Proje Kategori Id</mat-label>
+      <input
+        matInput
+        placeholder="Proje Kategori Id"
+        formControlName="projeKatId"
+        name="projeKatId"
+        required
+        type="text"
+      />
+    </mat-form-field>
+
+
+    <mat-form-field appearance="outline">
+      <mat-label>Proje Fiyat</mat-label>
+      <input
+        matInput
+        placeholder="Proje Fiyat"
+        formControlName="projeFiyat"
+        name="projeFiyat"
+        required
+        type="text"
+      />
+    </mat-form-field>
+
+
+    <mat-form-field appearance="outline">
+      <mat-label>Proje Açıklama</mat-label>
+      <input
+        matInput
+        placeholder="Proje Açıklama"
+        formControlName="projeAciklama"
+        name="projeAciklama"
+        required
+        type="text"
+      />
+    </mat-form-field>
+
+    <mat-form-field appearance="outline">
+      <mat-label>Proje Görsel</mat-label>
+      <input
+        matInput
+        placeholder="Proje Görsel"
+        formControlName="projeGorsel"
+        name="projeGorsel"
+        required
+        type="text"
+      />
+    </mat-form-field>
+
+
+  </form>
+
+  <button
+    mat-stroked-button    color="warn"    [disabled]="frm.invalid"    (click)="dialogRef.close(frm.value)">Kaydet</button
+  >&nbsp;
+  <button mat-stroked-button color="warn" (click)="dialogRef.close()">    İptal </button>
+</div>
+

@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="keroBilgisayarModelStoreContainer" CdmEntityContainer="keroBilgisayarEntities">
+    <EntitySetMapping Name="kategori">
+      <EntityTypeMapping TypeName="keroBilgisayarModel.kategori">
+        <MappingFragment StoreEntitySet="kategori">
+          <ScalarProperty Name="katAdi" ColumnName="katAdi" />
+          <ScalarProperty Name="katId" ColumnName="katId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="projeler">
+      <EntityTypeMapping TypeName="keroBilgisayarModel.projeler">
+        <MappingFragment StoreEntitySet="projeler">
+          <ScalarProperty Name="projeGorsel" ColumnName="projeGorsel" />
+          <ScalarProperty Name="projeAciklama" ColumnName="projeAciklama" />
+          <ScalarProperty Name="projeFiyat" ColumnName="projeFiyat" />
+          <ScalarProperty Name="projeKatId" ColumnName="projeKatId" />
+          <ScalarProperty Name="projeAdi" ColumnName="projeAdi" />
+          <ScalarProperty Name="projeId" ColumnName="projeId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="projeSiparis">
+      <EntityTypeMapping TypeName="keroBilgisayarModel.projeSiparis">
+        <MappingFragment StoreEntitySet="projeSiparis">
+          <ScalarProperty Name="siparisProjeId" ColumnName="siparisProjeId" />
+          <ScalarProperty Name="siparisKodu" ColumnName="siparisKodu" />
+          <ScalarProperty Name="siparisTarihi" ColumnName="siparisTarihi" />
+          <ScalarProperty Name="siparisUyeId" ColumnName="siparisUyeId" />
+          <ScalarProperty Name="projeSiparisId" ColumnName="projeSiparisId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="uyeler">
+      <EntityTypeMapping TypeName="keroBilgisayarModel.uyeler">
+        <MappingFragment StoreEntitySet="uyeler">
+          <ScalarProperty Name="uyeYetki" ColumnName="uyeYetki" />
+          <ScalarProperty Name="uyeKullaniciAdi" ColumnName="uyeKullaniciAdi" />
+          <ScalarProperty Name="uyeEposta" ColumnName="uyeEposta" />
+          <ScalarProperty Name="uyeTelefon" ColumnName="uyeTelefon" />
+          <ScalarProperty Name="uyeSifre" ColumnName="uyeSifre" />
+          <ScalarProperty Name="uyeSoyadi" ColumnName="uyeSoyadi" />
+          <ScalarProperty Name="uyeAdi" ColumnName="uyeAdi" />
+          <ScalarProperty Name="uyelerId" ColumnName="uyelerId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

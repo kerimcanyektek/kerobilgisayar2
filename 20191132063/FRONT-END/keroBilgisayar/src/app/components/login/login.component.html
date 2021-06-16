@@ -1,0 +1,17 @@
+<div class="container">
+
+<h2>Giriş Yap</h2>
+
+  <mat-form-field appearance="outline" style="width: 100%;">
+    <mat-label>Kullanıcı Adınız</mat-label>
+    <input matInput placeholder="Kullanıcı Adı" type="text" #kullaniciAdi>
+  </mat-form-field>
+
+  <mat-form-field appearance="outline" style="width: 100%;">
+    <mat-label>Şifreniz</mat-label >
+    <input matInput placeholder="Şifre" type="password" #sifre>
+  </mat-form-field>
+
+  <button mat-raised-button color="warn" (click)="OturumAc(kullaniciAdi.value,sifre.value)">Giriş Yap</button>
+
+</div>

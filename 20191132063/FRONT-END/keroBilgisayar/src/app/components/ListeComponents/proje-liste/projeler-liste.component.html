@@ -1,0 +1,22 @@
+<div class="container">
+  <h1>Proje Bilgisi</h1>
+
+  <h3>
+    <button mat-stroked-button color="primary" (click)="ProjeDuzenle(secProjeler)">Düzenle</button>
+    &nbsp;
+    <button mat-stroked-button color="warn" (click)="Sil(secProjeler)">Sil</button>
+  </h3>
+
+  <h3><img [src]="apiServis.siteUrl + '/Dosyalar/' + secProjeler?.projeGorsel" style="width: 300px"/></h3>
+  <h3><b>Proje Id : </b>{{ secProjeler?.projeId }}</h3>
+  <h3><b>Proje Adı : </b>{{ secProjeler?.projeAdi }}</h3>
+  <h3><b>Proje Fiyatı : </b>{{ secProjeler?.projeFiyat }}</h3>
+  <h3><b>Proje Açıklaması : </b>{{ secProjeler?.projeAciklama }}</h3>
+  <h3><b>Proje Kategori Id : </b>{{ secProjeler?.projeKatId }}</h3>
+  <h3><b>Proje Kategori Adı : </b>{{ secProjeler?.projeGorsel }}</h3>
+
+  <p>&nbsp;</p>
+
+  <button mat-stroked-button color="primary" >Geri</button>
+</div>
+

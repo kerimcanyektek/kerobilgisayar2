@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="keroBilgisayarModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="keroBilgisayarEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="kategori" EntityType="keroBilgisayarModel.kategori" />
+    <EntitySet Name="projeler" EntityType="keroBilgisayarModel.projeler" />
+    <EntitySet Name="projeSiparis" EntityType="keroBilgisayarModel.projeSiparis" />
+    <EntitySet Name="uyeler" EntityType="keroBilgisayarModel.uyeler" />
+    <AssociationSet Name="FK_projeler_ToKategoriler" Association="keroBilgisayarModel.FK_projeler_ToKategoriler">
+      <End Role="kategori" EntitySet="kategori" />
+      <End Role="projeler" EntitySet="projeler" />
+    </AssociationSet>
+    <AssociationSet Name="FK_projeSiparis_ToProjeler" Association="keroBilgisayarModel.FK_projeSiparis_ToProjeler">
+      <End Role="projeler" EntitySet="projeler" />
+      <End Role="projeSiparis" EntitySet="projeSiparis" />
+    </AssociationSet>
+    <AssociationSet Name="FK_projeSiparis_ToUyeler" Association="keroBilgisayarModel.FK_projeSiparis_ToUyeler">
+      <End Role="uyeler" EntitySet="uyeler" />
+      <End Role="projeSiparis" EntitySet="projeSiparis" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="kategori">
+    <Key>
+      <PropertyRef Name="katId" />
+    </Key>
+    <Property Name="katId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="katAdi" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="projeler" Relationship="keroBilgisayarModel.FK_projeler_ToKategoriler" FromRole="kategori" ToRole="projeler" />
+  </EntityType>
+  <EntityType Name="projeler">
+    <Key>
+      <PropertyRef Name="projeId" />
+    </Key>
+    <Property Name="projeId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="projeAdi" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="projeKatId" Type="Int32" Nullable="false" />
+    <Property Name="projeFiyat" Type="Decimal" Nullable="false" Precision="5" Scale="2" />
+    <Property Name="projeAciklama" Type="String" Nullable="false" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="projeGorsel" Type="String" Nullable="false" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="kategori" Relationship="keroBilgisayarModel.FK_projeler_ToKategoriler" FromRole="projeler" ToRole="kategori" />
+    <NavigationProperty Name="projeSiparis" Relationship="keroBilgisayarModel.FK_projeSiparis_ToProjeler" FromRole="projeler" ToRole="projeSiparis" />
+  </EntityType>
+  <EntityType Name="projeSiparis">
+    <Key>
+      <PropertyRef Name="projeSiparisId" />
+    </Key>
+    <Property Name="projeSiparisId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="siparisUyeId" Type="Int32" Nullable="false" />
+    <Property Name="siparisTarihi" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="siparisKodu" Type="Int32" Nullable="false" />
+    <Property Name="siparisProjeId" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="projeler" Relationship="keroBilgisayarModel.FK_projeSiparis_ToProjeler" FromRole="projeSiparis" ToRole="projeler" />
+    <NavigationProperty Name="uyeler" Relationship="keroBilgisayarModel.FK_projeSiparis_ToUyeler" FromRole="projeSiparis" ToRole="uyeler" />
+  </EntityType>
+  <EntityType Name="uyeler">
+    <Key>
+      <PropertyRef Name="uyelerId" />
+    </Key>
+    <Property Name="uyelerId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="uyeAdi" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="uyeSoyadi" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="uyeSifre" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="uyeTelefon" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="uyeEposta" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="uyeKullaniciAdi" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="uyeYetki" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="projeSiparis" Relationship="keroBilgisayarModel.FK_projeSiparis_ToUyeler" FromRole="uyeler" ToRole="projeSiparis" />
+  </EntityType>
+  <Association Name="FK_projeler_ToKategoriler">
+    <End Type="keroBilgisayarModel.kategori" Role="kategori" Multiplicity="1" />
+    <End Type="keroBilgisayarModel.projeler" Role="projeler" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="kategori">
+        <PropertyRef Name="katId" />
+      </Principal>
+      <Dependent Role="projeler">
+        <PropertyRef Name="projeKatId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_projeSiparis_ToProjeler">
+    <End Type="keroBilgisayarModel.projeler" Role="projeler" Multiplicity="1" />
+    <End Type="keroBilgisayarModel.projeSiparis" Role="projeSiparis" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="projeler">
+        <PropertyRef Name="projeId" />
+      </Principal>
+      <Dependent Role="projeSiparis">
+        <PropertyRef Name="siparisProjeId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_projeSiparis_ToUyeler">
+    <End Type="keroBilgisayarModel.uyeler" Role="uyeler" Multiplicity="1" />
+    <End Type="keroBilgisayarModel.projeSiparis" Role="projeSiparis" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="uyeler">
+        <PropertyRef Name="uyelerId" />
+      </Principal>
+      <Dependent Role="projeSiparis">
+        <PropertyRef Name="siparisUyeId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

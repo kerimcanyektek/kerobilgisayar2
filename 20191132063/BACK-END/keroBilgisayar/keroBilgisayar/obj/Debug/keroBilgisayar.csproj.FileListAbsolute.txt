@@ -1,0 +1,242 @@
+C:\Users\kerim\source\repos\keroBilgisayar\keroBilgisayar\obj\Debug\keroBilgisayar.csprojAssemblyReference.cache
+C:\Users\kerim\source\repos\keroBilgisayar\keroBilgisayar\obj\Debug\keroBilgisayar.csproj.CoreCompileInputs.cache
+C:\Users\kerim\source\repos\keroBilgisayar\keroBilgisayar\bin\keroBilgisayar.dll.config
+C:\Users\kerim\source\repos\keroBilgisayar\keroBilgisayar\bin\keroBilgisayar.dll
+C:\Users\kerim\source\repos\keroBilgisayar\keroBilgisayar\bin\keroBilgisayar.pdb
+C:\Users\kerim\source\repos\keroBilgisayar\keroBilgisayar\bin\roslyn\csc.exe
+C:\Users\kerim\source\repos\keroBilgisayar\keroBilgisayar\bin\roslyn\csc.exe.config
+C:\Users\kerim\source\repos\keroBilgisayar\keroBilgisayar\bin\roslyn\csc.rsp
+C:\Users\kerim\source\repos\keroBilgisayar\keroBilgisayar\bin\roslyn\csi.exe
+C:\Users\kerim\source\repos\keroBilgisayar\keroBilgisayar\bin\roslyn\csi.exe.config
+C:\Users\kerim\source\repos\keroBilgisayar\keroBilgisayar\bin\roslyn\csi.rsp
+C:\Users\kerim\source\repos\keroBilgisayar\keroBilgisayar\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\kerim\source\repos\keroBilgisayar\keroBilgisayar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\kerim\source\repos\keroBilgisayar\keroBilgisayar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\kerim\source\repos\keroBilgisayar\keroBilgisayar\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\kerim\source\repos\keroBilgisayar\keroBilgisayar\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\kerim\source\repos\keroBilgisayar\keroBilgisayar\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\kerim\source\repos\keroBilgisayar\keroBilgisayar\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\kerim\source\repos\keroBilgisayar\keroBilgisayar\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\kerim\source\repos\keroBilgisayar\keroBilgisayar\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\kerim\source\repos\keroBilgisayar\keroBilgisayar\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\kerim\source\repos\keroBilgisayar\keroBilgisayar\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\kerim\source\repos\keroBilgisayar\keroBilgisayar\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\kerim\source\repos\keroBilgisayar\keroBilgisayar\bin\roslyn\System.AppContext.dll
+C:\Users\kerim\source\repos\keroBilgisayar\keroBilgisayar\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\kerim\source\repos\keroBilgisayar\keroBilgisayar\bin\roslyn\System.Console.dll
+C:\Users\kerim\source\repos\keroBilgisayar\keroBilgisayar\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\kerim\source\repos\keroBilgisayar\keroBilgisayar\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\kerim\source\repos\keroBilgisayar\keroBilgisayar\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\kerim\source\repos\keroBilgisayar\keroBilgisayar\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\kerim\source\repos\keroBilgisayar\keroBilgisayar\bin\roslyn\System.IO.Compression.dll
+C:\Users\kerim\source\repos\keroBilgisayar\keroBilgisayar\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\kerim\source\repos\keroBilgisayar\keroBilgisayar\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\kerim\source\repos\keroBilgisayar\keroBilgisayar\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\kerim\source\repos\keroBilgisayar\keroBilgisayar\bin\roslyn\System.Net.Http.dll
+C:\Users\kerim\source\repos\keroBilgisayar\keroBilgisayar\bin\roslyn\System.Net.Sockets.dll
+C:\Users\kerim\source\repos\keroBilgisayar\keroBilgisayar\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\kerim\source\repos\keroBilgisayar\keroBilgisayar\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\kerim\source\repos\keroBilgisayar\keroBilgisayar\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\kerim\source\repos\keroBilgisayar\keroBilgisayar\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\kerim\source\repos\keroBilgisayar\keroBilgisayar\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\kerim\source\repos\keroBilgisayar\keroBilgisayar\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\kerim\source\repos\keroBilgisayar\keroBilgisayar\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\kerim\source\repos\keroBilgisayar\keroBilgisayar\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\kerim\source\repos\keroBilgisayar\keroBilgisayar\bin\roslyn\System.ValueTuple.dll
+C:\Users\kerim\source\repos\keroBilgisayar\keroBilgisayar\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\kerim\source\repos\keroBilgisayar\keroBilgisayar\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\kerim\source\repos\keroBilgisayar\keroBilgisayar\bin\roslyn\System.Xml.XPath.dll
+C:\Users\kerim\source\repos\keroBilgisayar\keroBilgisayar\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\kerim\source\repos\keroBilgisayar\keroBilgisayar\bin\roslyn\vbc.exe
+C:\Users\kerim\source\repos\keroBilgisayar\keroBilgisayar\bin\roslyn\vbc.exe.config
+C:\Users\kerim\source\repos\keroBilgisayar\keroBilgisayar\bin\roslyn\vbc.rsp
+C:\Users\kerim\source\repos\keroBilgisayar\keroBilgisayar\bin\roslyn\VBCSCompiler.exe
+C:\Users\kerim\source\repos\keroBilgisayar\keroBilgisayar\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\kerim\source\repos\keroBilgisayar\keroBilgisayar\bin\EntityFramework.dll
+C:\Users\kerim\source\repos\keroBilgisayar\keroBilgisayar\bin\EntityFramework.SqlServer.dll
+C:\Users\kerim\source\repos\keroBilgisayar\keroBilgisayar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\kerim\source\repos\keroBilgisayar\keroBilgisayar\bin\Newtonsoft.Json.dll
+C:\Users\kerim\source\repos\keroBilgisayar\keroBilgisayar\bin\System.Net.Http.Formatting.dll
+C:\Users\kerim\source\repos\keroBilgisayar\keroBilgisayar\bin\System.Web.Http.dll
+C:\Users\kerim\source\repos\keroBilgisayar\keroBilgisayar\bin\System.Web.Http.WebHost.dll
+C:\Users\kerim\source\repos\keroBilgisayar\keroBilgisayar\bin\EntityFramework.xml
+C:\Users\kerim\source\repos\keroBilgisayar\keroBilgisayar\bin\EntityFramework.SqlServer.xml
+C:\Users\kerim\source\repos\keroBilgisayar\keroBilgisayar\bin\Newtonsoft.Json.xml
+C:\Users\kerim\source\repos\keroBilgisayar\keroBilgisayar\bin\System.Net.Http.Formatting.xml
+C:\Users\kerim\source\repos\keroBilgisayar\keroBilgisayar\bin\System.Web.Http.xml
+C:\Users\kerim\source\repos\keroBilgisayar\keroBilgisayar\bin\System.Web.Http.WebHost.xml
+C:\Users\kerim\source\repos\keroBilgisayar\keroBilgisayar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\kerim\source\repos\keroBilgisayar\keroBilgisayar\bin\tr\System.Net.Http.Formatting.resources.dll
+C:\Users\kerim\source\repos\keroBilgisayar\keroBilgisayar\bin\tr\System.Web.Http.resources.dll
+C:\Users\kerim\source\repos\keroBilgisayar\keroBilgisayar\bin\tr\System.Web.Http.WebHost.resources.dll
+C:\Users\kerim\source\repos\keroBilgisayar\keroBilgisayar\obj\Debug\keroBilgisayar.csproj.CopyComplete
+C:\Users\kerim\source\repos\keroBilgisayar\keroBilgisayar\obj\Debug\keroBilgisayar.dll
+C:\Users\kerim\source\repos\keroBilgisayar\keroBilgisayar\obj\Debug\keroBilgisayar.pdb
+D:\KCY\Dersler\2. Dönem\İnternet Programcılığı 2\hatasızKeroBilgisayar\keroBilgisayar\keroBilgisayar\bin\keroBilgisayar.dll.config
+D:\KCY\Dersler\2. Dönem\İnternet Programcılığı 2\hatasızKeroBilgisayar\keroBilgisayar\keroBilgisayar\bin\keroBilgisayar.dll
+D:\KCY\Dersler\2. Dönem\İnternet Programcılığı 2\hatasızKeroBilgisayar\keroBilgisayar\keroBilgisayar\bin\keroBilgisayar.pdb
+D:\KCY\Dersler\2. Dönem\İnternet Programcılığı 2\hatasızKeroBilgisayar\keroBilgisayar\keroBilgisayar\bin\roslyn\csc.exe
+D:\KCY\Dersler\2. Dönem\İnternet Programcılığı 2\hatasızKeroBilgisayar\keroBilgisayar\keroBilgisayar\bin\roslyn\csc.exe.config
+D:\KCY\Dersler\2. Dönem\İnternet Programcılığı 2\hatasızKeroBilgisayar\keroBilgisayar\keroBilgisayar\bin\roslyn\csc.rsp
+D:\KCY\Dersler\2. Dönem\İnternet Programcılığı 2\hatasızKeroBilgisayar\keroBilgisayar\keroBilgisayar\bin\roslyn\csi.exe
+D:\KCY\Dersler\2. Dönem\İnternet Programcılığı 2\hatasızKeroBilgisayar\keroBilgisayar\keroBilgisayar\bin\roslyn\csi.exe.config
+D:\KCY\Dersler\2. Dönem\İnternet Programcılığı 2\hatasızKeroBilgisayar\keroBilgisayar\keroBilgisayar\bin\roslyn\csi.rsp
+D:\KCY\Dersler\2. Dönem\İnternet Programcılığı 2\hatasızKeroBilgisayar\keroBilgisayar\keroBilgisayar\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\KCY\Dersler\2. Dönem\İnternet Programcılığı 2\hatasızKeroBilgisayar\keroBilgisayar\keroBilgisayar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\KCY\Dersler\2. Dönem\İnternet Programcılığı 2\hatasızKeroBilgisayar\keroBilgisayar\keroBilgisayar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\KCY\Dersler\2. Dönem\İnternet Programcılığı 2\hatasızKeroBilgisayar\keroBilgisayar\keroBilgisayar\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\KCY\Dersler\2. Dönem\İnternet Programcılığı 2\hatasızKeroBilgisayar\keroBilgisayar\keroBilgisayar\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\KCY\Dersler\2. Dönem\İnternet Programcılığı 2\hatasızKeroBilgisayar\keroBilgisayar\keroBilgisayar\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\KCY\Dersler\2. Dönem\İnternet Programcılığı 2\hatasızKeroBilgisayar\keroBilgisayar\keroBilgisayar\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\KCY\Dersler\2. Dönem\İnternet Programcılığı 2\hatasızKeroBilgisayar\keroBilgisayar\keroBilgisayar\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\KCY\Dersler\2. Dönem\İnternet Programcılığı 2\hatasızKeroBilgisayar\keroBilgisayar\keroBilgisayar\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\KCY\Dersler\2. Dönem\İnternet Programcılığı 2\hatasızKeroBilgisayar\keroBilgisayar\keroBilgisayar\bin\roslyn\Microsoft.Managed.Core.targets
+D:\KCY\Dersler\2. Dönem\İnternet Programcılığı 2\hatasızKeroBilgisayar\keroBilgisayar\keroBilgisayar\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\KCY\Dersler\2. Dönem\İnternet Programcılığı 2\hatasızKeroBilgisayar\keroBilgisayar\keroBilgisayar\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\KCY\Dersler\2. Dönem\İnternet Programcılığı 2\hatasızKeroBilgisayar\keroBilgisayar\keroBilgisayar\bin\roslyn\System.AppContext.dll
+D:\KCY\Dersler\2. Dönem\İnternet Programcılığı 2\hatasızKeroBilgisayar\keroBilgisayar\keroBilgisayar\bin\roslyn\System.Collections.Immutable.dll
+D:\KCY\Dersler\2. Dönem\İnternet Programcılığı 2\hatasızKeroBilgisayar\keroBilgisayar\keroBilgisayar\bin\roslyn\System.Console.dll
+D:\KCY\Dersler\2. Dönem\İnternet Programcılığı 2\hatasızKeroBilgisayar\keroBilgisayar\keroBilgisayar\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\KCY\Dersler\2. Dönem\İnternet Programcılığı 2\hatasızKeroBilgisayar\keroBilgisayar\keroBilgisayar\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\KCY\Dersler\2. Dönem\İnternet Programcılığı 2\hatasızKeroBilgisayar\keroBilgisayar\keroBilgisayar\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\KCY\Dersler\2. Dönem\İnternet Programcılığı 2\hatasızKeroBilgisayar\keroBilgisayar\keroBilgisayar\bin\roslyn\System.Globalization.Calendars.dll
+D:\KCY\Dersler\2. Dönem\İnternet Programcılığı 2\hatasızKeroBilgisayar\keroBilgisayar\keroBilgisayar\bin\roslyn\System.IO.Compression.dll
+D:\KCY\Dersler\2. Dönem\İnternet Programcılığı 2\hatasızKeroBilgisayar\keroBilgisayar\keroBilgisayar\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\KCY\Dersler\2. Dönem\İnternet Programcılığı 2\hatasızKeroBilgisayar\keroBilgisayar\keroBilgisayar\bin\roslyn\System.IO.FileSystem.dll
+D:\KCY\Dersler\2. Dönem\İnternet Programcılığı 2\hatasızKeroBilgisayar\keroBilgisayar\keroBilgisayar\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\KCY\Dersler\2. Dönem\İnternet Programcılığı 2\hatasızKeroBilgisayar\keroBilgisayar\keroBilgisayar\bin\roslyn\System.Net.Http.dll
+D:\KCY\Dersler\2. Dönem\İnternet Programcılığı 2\hatasızKeroBilgisayar\keroBilgisayar\keroBilgisayar\bin\roslyn\System.Net.Sockets.dll
+D:\KCY\Dersler\2. Dönem\İnternet Programcılığı 2\hatasızKeroBilgisayar\keroBilgisayar\keroBilgisayar\bin\roslyn\System.Reflection.Metadata.dll
+D:\KCY\Dersler\2. Dönem\İnternet Programcılığı 2\hatasızKeroBilgisayar\keroBilgisayar\keroBilgisayar\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\KCY\Dersler\2. Dönem\İnternet Programcılığı 2\hatasızKeroBilgisayar\keroBilgisayar\keroBilgisayar\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\KCY\Dersler\2. Dönem\İnternet Programcılığı 2\hatasızKeroBilgisayar\keroBilgisayar\keroBilgisayar\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\KCY\Dersler\2. Dönem\İnternet Programcılığı 2\hatasızKeroBilgisayar\keroBilgisayar\keroBilgisayar\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\KCY\Dersler\2. Dönem\İnternet Programcılığı 2\hatasızKeroBilgisayar\keroBilgisayar\keroBilgisayar\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\KCY\Dersler\2. Dönem\İnternet Programcılığı 2\hatasızKeroBilgisayar\keroBilgisayar\keroBilgisayar\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\KCY\Dersler\2. Dönem\İnternet Programcılığı 2\hatasızKeroBilgisayar\keroBilgisayar\keroBilgisayar\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\KCY\Dersler\2. Dönem\İnternet Programcılığı 2\hatasızKeroBilgisayar\keroBilgisayar\keroBilgisayar\bin\roslyn\System.ValueTuple.dll
+D:\KCY\Dersler\2. Dönem\İnternet Programcılığı 2\hatasızKeroBilgisayar\keroBilgisayar\keroBilgisayar\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\KCY\Dersler\2. Dönem\İnternet Programcılığı 2\hatasızKeroBilgisayar\keroBilgisayar\keroBilgisayar\bin\roslyn\System.Xml.XmlDocument.dll
+D:\KCY\Dersler\2. Dönem\İnternet Programcılığı 2\hatasızKeroBilgisayar\keroBilgisayar\keroBilgisayar\bin\roslyn\System.Xml.XPath.dll
+D:\KCY\Dersler\2. Dönem\İnternet Programcılığı 2\hatasızKeroBilgisayar\keroBilgisayar\keroBilgisayar\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\KCY\Dersler\2. Dönem\İnternet Programcılığı 2\hatasızKeroBilgisayar\keroBilgisayar\keroBilgisayar\bin\roslyn\vbc.exe
+D:\KCY\Dersler\2. Dönem\İnternet Programcılığı 2\hatasızKeroBilgisayar\keroBilgisayar\keroBilgisayar\bin\roslyn\vbc.exe.config
+D:\KCY\Dersler\2. Dönem\İnternet Programcılığı 2\hatasızKeroBilgisayar\keroBilgisayar\keroBilgisayar\bin\roslyn\vbc.rsp
+D:\KCY\Dersler\2. Dönem\İnternet Programcılığı 2\hatasızKeroBilgisayar\keroBilgisayar\keroBilgisayar\bin\roslyn\VBCSCompiler.exe
+D:\KCY\Dersler\2. Dönem\İnternet Programcılığı 2\hatasızKeroBilgisayar\keroBilgisayar\keroBilgisayar\bin\roslyn\VBCSCompiler.exe.config
+D:\KCY\Dersler\2. Dönem\İnternet Programcılığı 2\hatasızKeroBilgisayar\keroBilgisayar\keroBilgisayar\bin\EntityFramework.dll
+D:\KCY\Dersler\2. Dönem\İnternet Programcılığı 2\hatasızKeroBilgisayar\keroBilgisayar\keroBilgisayar\bin\EntityFramework.SqlServer.dll
+D:\KCY\Dersler\2. Dönem\İnternet Programcılığı 2\hatasızKeroBilgisayar\keroBilgisayar\keroBilgisayar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\KCY\Dersler\2. Dönem\İnternet Programcılığı 2\hatasızKeroBilgisayar\keroBilgisayar\keroBilgisayar\bin\Newtonsoft.Json.dll
+D:\KCY\Dersler\2. Dönem\İnternet Programcılığı 2\hatasızKeroBilgisayar\keroBilgisayar\keroBilgisayar\bin\System.Net.Http.Formatting.dll
+D:\KCY\Dersler\2. Dönem\İnternet Programcılığı 2\hatasızKeroBilgisayar\keroBilgisayar\keroBilgisayar\bin\System.Web.Http.dll
+D:\KCY\Dersler\2. Dönem\İnternet Programcılığı 2\hatasızKeroBilgisayar\keroBilgisayar\keroBilgisayar\bin\System.Web.Http.WebHost.dll
+D:\KCY\Dersler\2. Dönem\İnternet Programcılığı 2\hatasızKeroBilgisayar\keroBilgisayar\keroBilgisayar\bin\EntityFramework.xml
+D:\KCY\Dersler\2. Dönem\İnternet Programcılığı 2\hatasızKeroBilgisayar\keroBilgisayar\keroBilgisayar\bin\EntityFramework.SqlServer.xml
+D:\KCY\Dersler\2. Dönem\İnternet Programcılığı 2\hatasızKeroBilgisayar\keroBilgisayar\keroBilgisayar\bin\Newtonsoft.Json.xml
+D:\KCY\Dersler\2. Dönem\İnternet Programcılığı 2\hatasızKeroBilgisayar\keroBilgisayar\keroBilgisayar\bin\System.Net.Http.Formatting.xml
+D:\KCY\Dersler\2. Dönem\İnternet Programcılığı 2\hatasızKeroBilgisayar\keroBilgisayar\keroBilgisayar\bin\System.Web.Http.xml
+D:\KCY\Dersler\2. Dönem\İnternet Programcılığı 2\hatasızKeroBilgisayar\keroBilgisayar\keroBilgisayar\bin\System.Web.Http.WebHost.xml
+D:\KCY\Dersler\2. Dönem\İnternet Programcılığı 2\hatasızKeroBilgisayar\keroBilgisayar\keroBilgisayar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\KCY\Dersler\2. Dönem\İnternet Programcılığı 2\hatasızKeroBilgisayar\keroBilgisayar\keroBilgisayar\bin\tr\System.Net.Http.Formatting.resources.dll
+D:\KCY\Dersler\2. Dönem\İnternet Programcılığı 2\hatasızKeroBilgisayar\keroBilgisayar\keroBilgisayar\bin\tr\System.Web.Http.resources.dll
+D:\KCY\Dersler\2. Dönem\İnternet Programcılığı 2\hatasızKeroBilgisayar\keroBilgisayar\keroBilgisayar\bin\tr\System.Web.Http.WebHost.resources.dll
+D:\KCY\Dersler\2. Dönem\İnternet Programcılığı 2\hatasızKeroBilgisayar\keroBilgisayar\keroBilgisayar\obj\Debug\keroBilgisayar.csproj.AssemblyReference.cache
+D:\KCY\Dersler\2. Dönem\İnternet Programcılığı 2\hatasızKeroBilgisayar\keroBilgisayar\keroBilgisayar\obj\Debug\keroBilgisayar.csproj.CoreCompileInputs.cache
+D:\KCY\Dersler\2. Dönem\İnternet Programcılığı 2\hatasızKeroBilgisayar\keroBilgisayar\keroBilgisayar\obj\Debug\keroBilgisayar.csproj.CopyComplete
+D:\KCY\Dersler\2. Dönem\İnternet Programcılığı 2\hatasızKeroBilgisayar\keroBilgisayar\keroBilgisayar\obj\Debug\keroBilgisayar.dll
+D:\KCY\Dersler\2. Dönem\İnternet Programcılığı 2\hatasızKeroBilgisayar\keroBilgisayar\keroBilgisayar\obj\Debug\keroBilgisayar.pdb
+C:\Users\kerim\Desktop\Yeni klasör (5)\2\keroBilgisayar\keroBilgisayar\obj\Debug\keroBilgisayar.csproj.AssemblyReference.cache
+C:\Users\kerim\Desktop\Yeni klasör (5)\2\keroBilgisayar\keroBilgisayar\obj\Debug\keroBilgisayar.csproj.CoreCompileInputs.cache
+C:\Users\kerim\Desktop\Yeni klasör (5)\2\keroBilgisayar\keroBilgisayar\obj\Debug\keroBilgisayar.dll
+C:\Users\kerim\Desktop\Yeni klasör (5)\2\keroBilgisayar\keroBilgisayar\obj\Debug\keroBilgisayar.pdb
+C:\Users\kerim\Desktop\Yeni klasör\API\keroBilgisayar\keroBilgisayar\obj\Debug\keroBilgisayar.csproj.AssemblyReference.cache
+C:\Users\kerim\Desktop\Yeni klasör\API\keroBilgisayar\keroBilgisayar\obj\Debug\keroBilgisayar.csproj.CoreCompileInputs.cache
+C:\Users\kerim\Desktop\Yeni klasör\API\keroBilgisayar\keroBilgisayar\obj\Debug\keroBilgisayar.dll
+C:\Users\kerim\Desktop\Yeni klasör\API\keroBilgisayar\keroBilgisayar\obj\Debug\keroBilgisayar.pdb
+C:\Users\kerim\Desktop\Yeni klasör\API\keroBilgisayar\keroBilgisayar\bin\keroBilgisayar.dll.config
+C:\Users\kerim\Desktop\Yeni klasör\API\keroBilgisayar\keroBilgisayar\bin\keroBilgisayar.dll
+C:\Users\kerim\Desktop\Yeni klasör\API\keroBilgisayar\keroBilgisayar\bin\keroBilgisayar.pdb
+C:\Users\kerim\Desktop\Yeni klasör\API\keroBilgisayar\keroBilgisayar\bin\roslyn\csc.exe
+C:\Users\kerim\Desktop\Yeni klasör\API\keroBilgisayar\keroBilgisayar\bin\roslyn\csc.exe.config
+C:\Users\kerim\Desktop\Yeni klasör\API\keroBilgisayar\keroBilgisayar\bin\roslyn\csc.rsp
+C:\Users\kerim\Desktop\Yeni klasör\API\keroBilgisayar\keroBilgisayar\bin\roslyn\csi.exe
+C:\Users\kerim\Desktop\Yeni klasör\API\keroBilgisayar\keroBilgisayar\bin\roslyn\csi.exe.config
+C:\Users\kerim\Desktop\Yeni klasör\API\keroBilgisayar\keroBilgisayar\bin\roslyn\csi.rsp
+C:\Users\kerim\Desktop\Yeni klasör\API\keroBilgisayar\keroBilgisayar\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\kerim\Desktop\Yeni klasör\API\keroBilgisayar\keroBilgisayar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\kerim\Desktop\Yeni klasör\API\keroBilgisayar\keroBilgisayar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\kerim\Desktop\Yeni klasör\API\keroBilgisayar\keroBilgisayar\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\kerim\Desktop\Yeni klasör\API\keroBilgisayar\keroBilgisayar\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\kerim\Desktop\Yeni klasör\API\keroBilgisayar\keroBilgisayar\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\kerim\Desktop\Yeni klasör\API\keroBilgisayar\keroBilgisayar\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\kerim\Desktop\Yeni klasör\API\keroBilgisayar\keroBilgisayar\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\kerim\Desktop\Yeni klasör\API\keroBilgisayar\keroBilgisayar\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\kerim\Desktop\Yeni klasör\API\keroBilgisayar\keroBilgisayar\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\kerim\Desktop\Yeni klasör\API\keroBilgisayar\keroBilgisayar\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\kerim\Desktop\Yeni klasör\API\keroBilgisayar\keroBilgisayar\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\kerim\Desktop\Yeni klasör\API\keroBilgisayar\keroBilgisayar\bin\roslyn\System.AppContext.dll
+C:\Users\kerim\Desktop\Yeni klasör\API\keroBilgisayar\keroBilgisayar\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\kerim\Desktop\Yeni klasör\API\keroBilgisayar\keroBilgisayar\bin\roslyn\System.Console.dll
+C:\Users\kerim\Desktop\Yeni klasör\API\keroBilgisayar\keroBilgisayar\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\kerim\Desktop\Yeni klasör\API\keroBilgisayar\keroBilgisayar\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\kerim\Desktop\Yeni klasör\API\keroBilgisayar\keroBilgisayar\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\kerim\Desktop\Yeni klasör\API\keroBilgisayar\keroBilgisayar\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\kerim\Desktop\Yeni klasör\API\keroBilgisayar\keroBilgisayar\bin\roslyn\System.IO.Compression.dll
+C:\Users\kerim\Desktop\Yeni klasör\API\keroBilgisayar\keroBilgisayar\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\kerim\Desktop\Yeni klasör\API\keroBilgisayar\keroBilgisayar\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\kerim\Desktop\Yeni klasör\API\keroBilgisayar\keroBilgisayar\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\kerim\Desktop\Yeni klasör\API\keroBilgisayar\keroBilgisayar\bin\roslyn\System.Net.Http.dll
+C:\Users\kerim\Desktop\Yeni klasör\API\keroBilgisayar\keroBilgisayar\bin\roslyn\System.Net.Sockets.dll
+C:\Users\kerim\Desktop\Yeni klasör\API\keroBilgisayar\keroBilgisayar\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\kerim\Desktop\Yeni klasör\API\keroBilgisayar\keroBilgisayar\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\kerim\Desktop\Yeni klasör\API\keroBilgisayar\keroBilgisayar\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\kerim\Desktop\Yeni klasör\API\keroBilgisayar\keroBilgisayar\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\kerim\Desktop\Yeni klasör\API\keroBilgisayar\keroBilgisayar\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\kerim\Desktop\Yeni klasör\API\keroBilgisayar\keroBilgisayar\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\kerim\Desktop\Yeni klasör\API\keroBilgisayar\keroBilgisayar\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\kerim\Desktop\Yeni klasör\API\keroBilgisayar\keroBilgisayar\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\kerim\Desktop\Yeni klasör\API\keroBilgisayar\keroBilgisayar\bin\roslyn\System.ValueTuple.dll
+C:\Users\kerim\Desktop\Yeni klasör\API\keroBilgisayar\keroBilgisayar\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\kerim\Desktop\Yeni klasör\API\keroBilgisayar\keroBilgisayar\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\kerim\Desktop\Yeni klasör\API\keroBilgisayar\keroBilgisayar\bin\roslyn\System.Xml.XPath.dll
+C:\Users\kerim\Desktop\Yeni klasör\API\keroBilgisayar\keroBilgisayar\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\kerim\Desktop\Yeni klasör\API\keroBilgisayar\keroBilgisayar\bin\roslyn\vbc.exe
+C:\Users\kerim\Desktop\Yeni klasör\API\keroBilgisayar\keroBilgisayar\bin\roslyn\vbc.exe.config
+C:\Users\kerim\Desktop\Yeni klasör\API\keroBilgisayar\keroBilgisayar\bin\roslyn\vbc.rsp
+C:\Users\kerim\Desktop\Yeni klasör\API\keroBilgisayar\keroBilgisayar\bin\roslyn\VBCSCompiler.exe
+C:\Users\kerim\Desktop\Yeni klasör\API\keroBilgisayar\keroBilgisayar\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\kerim\Desktop\Yeni klasör\API\keroBilgisayar\keroBilgisayar\bin\EntityFramework.dll
+C:\Users\kerim\Desktop\Yeni klasör\API\keroBilgisayar\keroBilgisayar\bin\EntityFramework.SqlServer.dll
+C:\Users\kerim\Desktop\Yeni klasör\API\keroBilgisayar\keroBilgisayar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\kerim\Desktop\Yeni klasör\API\keroBilgisayar\keroBilgisayar\bin\Microsoft.Owin.Cors.dll
+C:\Users\kerim\Desktop\Yeni klasör\API\keroBilgisayar\keroBilgisayar\bin\Microsoft.Owin.dll
+C:\Users\kerim\Desktop\Yeni klasör\API\keroBilgisayar\keroBilgisayar\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\kerim\Desktop\Yeni klasör\API\keroBilgisayar\keroBilgisayar\bin\Microsoft.Owin.Security.dll
+C:\Users\kerim\Desktop\Yeni klasör\API\keroBilgisayar\keroBilgisayar\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\kerim\Desktop\Yeni klasör\API\keroBilgisayar\keroBilgisayar\bin\Newtonsoft.Json.dll
+C:\Users\kerim\Desktop\Yeni klasör\API\keroBilgisayar\keroBilgisayar\bin\Owin.dll
+C:\Users\kerim\Desktop\Yeni klasör\API\keroBilgisayar\keroBilgisayar\bin\System.Net.Http.Formatting.dll
+C:\Users\kerim\Desktop\Yeni klasör\API\keroBilgisayar\keroBilgisayar\bin\System.Web.Cors.dll
+C:\Users\kerim\Desktop\Yeni klasör\API\keroBilgisayar\keroBilgisayar\bin\System.Web.Http.dll
+C:\Users\kerim\Desktop\Yeni klasör\API\keroBilgisayar\keroBilgisayar\bin\System.Web.Http.Owin.dll
+C:\Users\kerim\Desktop\Yeni klasör\API\keroBilgisayar\keroBilgisayar\bin\System.Web.Http.WebHost.dll
+C:\Users\kerim\Desktop\Yeni klasör\API\keroBilgisayar\keroBilgisayar\bin\EntityFramework.xml
+C:\Users\kerim\Desktop\Yeni klasör\API\keroBilgisayar\keroBilgisayar\bin\EntityFramework.SqlServer.xml
+C:\Users\kerim\Desktop\Yeni klasör\API\keroBilgisayar\keroBilgisayar\bin\Microsoft.Owin.xml
+C:\Users\kerim\Desktop\Yeni klasör\API\keroBilgisayar\keroBilgisayar\bin\Microsoft.Owin.Cors.xml
+C:\Users\kerim\Desktop\Yeni klasör\API\keroBilgisayar\keroBilgisayar\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\kerim\Desktop\Yeni klasör\API\keroBilgisayar\keroBilgisayar\bin\Microsoft.Owin.Security.xml
+C:\Users\kerim\Desktop\Yeni klasör\API\keroBilgisayar\keroBilgisayar\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\kerim\Desktop\Yeni klasör\API\keroBilgisayar\keroBilgisayar\bin\System.Web.Http.Owin.xml
+C:\Users\kerim\Desktop\Yeni klasör\API\keroBilgisayar\keroBilgisayar\bin\Newtonsoft.Json.xml
+C:\Users\kerim\Desktop\Yeni klasör\API\keroBilgisayar\keroBilgisayar\bin\System.Net.Http.Formatting.xml
+C:\Users\kerim\Desktop\Yeni klasör\API\keroBilgisayar\keroBilgisayar\bin\System.Web.Http.xml
+C:\Users\kerim\Desktop\Yeni klasör\API\keroBilgisayar\keroBilgisayar\bin\System.Web.Http.WebHost.xml
+C:\Users\kerim\Desktop\Yeni klasör\API\keroBilgisayar\keroBilgisayar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\kerim\Desktop\Yeni klasör\API\keroBilgisayar\keroBilgisayar\bin\tr\System.Net.Http.Formatting.resources.dll
+C:\Users\kerim\Desktop\Yeni klasör\API\keroBilgisayar\keroBilgisayar\bin\tr\System.Web.Http.resources.dll
+C:\Users\kerim\Desktop\Yeni klasör\API\keroBilgisayar\keroBilgisayar\bin\tr\System.Web.Http.WebHost.resources.dll
+C:\Users\kerim\Desktop\Yeni klasör\API\keroBilgisayar\keroBilgisayar\obj\Debug\keroBilgisayar.csproj.CopyComplete
+C:\Users\kerim\Desktop\Yeni klasör\API\keroBilgisayar\keroBilgisayar\bin\System.Web.Http.Cors.dll
+C:\Users\kerim\Desktop\Yeni klasör\API\keroBilgisayar\keroBilgisayar\bin\System.Web.Http.Cors.xml

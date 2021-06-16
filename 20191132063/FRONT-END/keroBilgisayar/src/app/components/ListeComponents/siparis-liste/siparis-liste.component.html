@@ -1,0 +1,19 @@
+<div class="container">
+  <h1>Sipariş Bilgisi</h1>
+
+  <h3>
+    <button mat-stroked-button color="primary" (click)="Duzenle(secSip)">Düzenle</button>
+    &nbsp;
+    <button mat-stroked-button color="warn" (click)="Sil(secSip)">Sil</button>
+  </h3>
+
+  <h3><b>Sipariş Id : </b>{{ secSip?.projeSiparisId }}</h3>
+  <h3><b>Sipariş Kodu : </b>{{ secSip?.siparisKodu }}</h3>
+  <h3><b>Sipariş Üye Id : </b>{{ secSip?.siparisUyeId }}</h3>
+  <h3><b>Sipariş Açıklaması : </b>{{ secSip?.siparisProjeId }}</h3>
+  <h3><b>Sipariş Tarihi : </b>{{ secSip?.siparisTarihi }}</h3>
+
+  <p>&nbsp;</p>
+
+  <button mat-stroked-button color="primary" [routerLink]="['/admin/siparisler']">Geri</button>
+</div>

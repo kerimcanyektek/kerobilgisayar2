@@ -1,0 +1,126 @@
+
+
+<div class="container">
+  <h1>Mobil Uygulamalar</h1>
+  <mat-form-field appearance="outline">
+    <input matInput placeholder="Mobil uygulama ara" (keyup)="ProjelerFiltrele($event)"/>
+  </mat-form-field>
+  <p></p>
+  <H2>En Son Çıkan Mobil Uygulamalarımız</H2>
+
+
+  <body style="background-color:#eeeeee; margin: auto; text-align: center;">
+
+    <!-- Slayt Başlangıcı -->
+      <div class='csslider1 autoplay '>
+        <input name="cs_anchor1" id='cs_slide1_0' type="radio" class='cs_anchor slide' >
+        <input name="cs_anchor1" id='cs_slide1_1' type="radio" class='cs_anchor slide' >
+        <input name="cs_anchor1" id='cs_slide1_2' type="radio" class='cs_anchor slide' >
+        <input name="cs_anchor1" id='cs_play1' type="radio" class='cs_anchor' checked>
+        <input name="cs_anchor1" id='cs_pause1' type="radio" class='cs_anchor' >
+        <ul>
+          <div style="width: 100%; visibility: hidden; font-size: 0px; line-height: 0;">
+            <img src="http://cssslider.com/sliders/pen/images/buns.jpg" style="width: 100%;">
+          </div>
+          <li class='num0 img'>
+             <a href="http://kerimcanyektek.com" target=""><img src='https://i.hizliresim.com/41gadpy.png' alt='Online Yemek Siparişi Uygulaması' title='Online Yemek Siparişi Uygulaması' /> </a>
+          </li>
+          <li class='num1 img'>
+             <a href="http://kerimcanyektek.com" target=""><img src='https://i.hizliresim.com/5jrbb9j.png' alt='Son Depremler Uygulaması' title='Son Depremler Uygulaması' /> </a>
+          </li>
+          <li class='num2 img'>
+             <a href="http://kerimcanyektek.com" target=""><img src='https://i.hizliresim.com/6yj2mvn.png' alt='Günlük Haber ve Kişisel Gelişim Uygulaması' title='Günlük Haber ve Kişisel Gelişim Uygulaması' /> </a>
+          </li>
+
+        </ul>
+        <div class='cs_description'>
+          <label class='num0'>
+            <span class="cs_title"><span class="cs_wrapper">Online Yemek Siparişi Uygulaması</span></span>
+          </label>
+          <label class='num1'>
+            <span class="cs_title"><span class="cs_wrapper">Son Depremler Uygulaması</span></span>
+          </label>
+          <label class='num2'>
+            <span class="cs_title"><span class="cs_wrapper">Günlük Haber ve Kişisel Gelişim Uygulaması</span></span>
+          </label>
+        </div>
+
+        <div class=''>
+          <label class='num0' for='cs_slide1_0'></label>
+          <label class='num1' for='cs_slide1_1'></label>
+          <label class='num2' for='cs_slide1_2'></label>
+        </div>
+        <div class=''>
+          <label class='num0' for='cs_slide1_0'></label>
+          <label class='num1' for='cs_slide1_1'></label>
+          <label class='num2' for='cs_slide1_2'></label>
+        </div>
+
+        <div class='cs_bullets'>
+          <label class='num0' for='cs_slide1_0'>
+            <span class='cs_point'></span>
+            <span class='cs_thumb'><img src='https://i.hizliresim.com/41gadpy.png' alt='Online Yemek Siparişi Uygulaması' title='Online Yemek Siparişi Uygulaması' /></span>
+          </label>
+          <label class='num1' for='cs_slide1_1'>
+            <span class='cs_point'></span>
+            <span class='cs_thumb'><img src='https://i.hizliresim.com/5jrbb9j.png' alt='Son Depremler Uygulaması' title='Son Depremler Uygulaması' /></span>
+          </label>
+          <label class='num2' for='cs_slide1_2'>
+            <span class='cs_point'></span>
+            <span class='cs_thumb'><img src='https://i.hizliresim.com/6yj2mvn.png' alt='Günlük Haber ve Kişisel Gelişim Uygulaması' title='Günlük Haber ve Kişisel Gelişim Uygulaması' /></span>
+          </label>
+        </div>
+        </div>
+        <!-- Slayt Bitişi -->
+
+      <br /><br />
+      </body>
+
+  <p>&nbsp;</p>
+
+
+
+<mat-table [dataSource]="dataSource" class="mat-elevation-z10" matSort>
+  <ng-container matColumnDef="projeGorsel">
+    <mat-header-cell *matHeaderCellDef> Uygulama Görseli
+    </mat-header-cell>
+    <mat-cell *matCellDef="let kayit">
+      <img [src]="apiServis.siteUrl + '/Dosyalar/' + kayit.projeGorsel" style="width: 300px"/>
+    </mat-cell>
+  </ng-container>
+
+
+
+  <ng-container matColumnDef="projeAdi" >
+    <mat-header-cell *matHeaderCellDef mat-sort-header> Uygulama Adı
+    </mat-header-cell>
+    <mat-cell *matCellDef="let kayit"> {{kayit.projeAdi}} </mat-cell>
+  </ng-container>
+
+  <ng-container matColumnDef="projeFiyat">
+    <mat-header-cell *matHeaderCellDef mat-sort-header> Uygulama Fiyatı
+    </mat-header-cell>
+    <mat-cell *matCellDef="let kayit"> {{kayit.projeFiyat}} TL </mat-cell>
+  </ng-container>
+
+  <ng-container matColumnDef="projeAciklama">
+    <mat-header-cell *matHeaderCellDef mat-sort-header> Uygulama Açıklaması
+    </mat-header-cell>
+    <mat-cell *matCellDef="let kayit"> {{kayit.projeAciklama}} </mat-cell>
+  </ng-container>
+
+
+
+
+
+  <mat-header-row *matHeaderRowDef="displayedColumns"></mat-header-row>
+  <mat-row *matRowDef="let row; columns: displayedColumns;"></mat-row>
+</mat-table>
+
+  <mat-paginator
+    [pageSizeOptions]="[5,10, 15, 25]"
+    showFirstLastButtons
+    class="mat-elevation-z5"
+  >
+  </mat-paginator>
+</div>
